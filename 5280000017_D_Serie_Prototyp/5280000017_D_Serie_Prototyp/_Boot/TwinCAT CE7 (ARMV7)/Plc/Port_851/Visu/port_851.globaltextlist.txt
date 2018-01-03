@@ -1,1 +1,4 @@
 Id;Default
+168;Einsatzgrenzen
+642;Kalibrieren
+362;Quittieren
